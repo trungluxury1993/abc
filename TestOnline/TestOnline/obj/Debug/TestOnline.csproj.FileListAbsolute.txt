@@ -1,0 +1,14 @@
+E:\Demo1\TestOnline\TestOnline\bin\Debug\TestOnline.exe.config
+E:\Demo1\TestOnline\TestOnline\bin\Debug\TestOnline.exe
+E:\Demo1\TestOnline\TestOnline\bin\Debug\TestOnline.pdb
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.csprojResolveAssemblyReference.cache
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.Form1.resources
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.Properties.Resources.resources
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.csproj.GenerateResource.cache
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.csproj.CoreCompileInputs.cache
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.exe
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.pdb
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.GarenaDemo.resources
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.Loading.resources
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.Login.resources
+E:\Demo1\TestOnline\TestOnline\obj\Debug\TestOnline.AddQuestion.resources
